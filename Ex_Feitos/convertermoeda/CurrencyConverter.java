@@ -1,4 +1,4 @@
-package Ex_Feitos.convertermoeda;
+/*package Ex_Feitos.convertermoeda;
 public class CurrencyConverter {
     
 
@@ -10,4 +10,4 @@ public class CurrencyConverter {
         real = real + (real * 0.06);
         return real;
     }
-} 
+} */

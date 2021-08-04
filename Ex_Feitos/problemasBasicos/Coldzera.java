@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //faz umas conta nada a ver
@@ -27,3 +27,4 @@ public class Coldzera {
         sc.close();
     }
 }
+*/

@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //conta quantos tem dentro/quantos tem fora
@@ -30,3 +30,4 @@ public class Compara {
         sc.close();
     }
 }
+*/

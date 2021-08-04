@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //calculo de celsius para fahrenheit
@@ -24,3 +24,4 @@ public class Fahrenheint {
         sc.close();
     }
 }
+*/

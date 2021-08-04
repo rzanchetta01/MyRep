@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //digita os dados e ele calcula o salario
@@ -25,3 +25,4 @@ public class Salario {
     sc.close();
     }   
 }
+*/

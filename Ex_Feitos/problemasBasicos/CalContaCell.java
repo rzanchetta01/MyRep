@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //calcula conta cell se passar do valor limite
@@ -21,3 +21,4 @@ public class CalContaCell {
         sc.close();
     }
 }
+*/

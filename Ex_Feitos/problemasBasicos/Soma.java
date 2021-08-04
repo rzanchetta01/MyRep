@@ -1,5 +1,5 @@
-package Ex_Feitos.problemasBasicos;
-//Digite 2 numeros, que o programa somae eles
+/*package Ex_Feitos.problemasBasicos;
+//Digite 2 numeros, que o programa soma eles
 import java.util.Scanner;
 
 public class Soma{
@@ -43,4 +43,4 @@ public class Soma{
         System.out.println("NUMEBER =" + nFunc + "\nSALARY =" + soma);
         sc.close();
     }
-}
+}*/

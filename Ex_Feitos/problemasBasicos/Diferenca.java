@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //Digite 4 numeros e ele faz uma conta de diferenca
@@ -25,3 +25,4 @@ public class Diferenca{
         sc.close();
     }
 }
+*/

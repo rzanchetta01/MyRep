@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //mostra os numeros impares ate o numero digitado
@@ -20,3 +20,4 @@ public class Inverte {
     }
 }
 
+*/

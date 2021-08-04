@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //Ve qual dia da semana eh combase no numero
@@ -41,3 +41,4 @@ public class DiaSemana {
         sc.close();
     }
 }
+*/

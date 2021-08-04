@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //calcula lado do triango e em seguida calcula umas parada
@@ -50,7 +50,7 @@ public class CalAreaTri {
         }
         
     }
-}
+}*/
 
 
 

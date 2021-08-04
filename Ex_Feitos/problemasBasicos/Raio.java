@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 //digita o raio e ele te da a area do circulo
 import java.util.Scanner;
 
@@ -14,3 +14,4 @@ public class Raio {
         sc.close();
     }
 }
+*/

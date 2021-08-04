@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //ve com base nas cordenas qual quadrante do plano cartesiano
@@ -38,3 +38,4 @@ public class Cartesiano {
         sc.close();
     }
 }
+*/

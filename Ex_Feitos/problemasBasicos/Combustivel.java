@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 
 
 //calcula quantidade de combustivel
@@ -48,3 +48,4 @@ public class Combustivel {
     }
 
 }
+*/

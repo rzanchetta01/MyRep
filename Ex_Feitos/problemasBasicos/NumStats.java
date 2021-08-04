@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*package Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //digita 2 numeros, o primeiro diz se eh negativo ou positivo ou neutro
@@ -38,3 +38,4 @@ public class NumStats {
         sc.close();
     }
 }
+*/

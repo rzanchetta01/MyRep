@@ -1,4 +1,4 @@
-package Ex_Feitos.problemasBasicos;
+/*spackage Ex_Feitos.problemasBasicos;
 import java.util.Scanner;
 
 //verfica a senha digitada
@@ -19,3 +19,4 @@ public class Senha {
 
         }  
 }
+*/
