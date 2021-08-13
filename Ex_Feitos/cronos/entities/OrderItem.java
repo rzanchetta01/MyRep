@@ -1,4 +1,4 @@
-package Ex_Feitos.cronos.entities;
+/*package Ex_Feitos.cronos.entities;
 
 public class OrderItem {
     
@@ -40,3 +40,4 @@ public class OrderItem {
         + String.format("%.2f", subtotal());
     }
 }
+*/

@@ -1,14 +1,21 @@
-/*package Ex_Feitos.cronos.entities;
+
+/*package entitites;
+
 
 public class Product {
-    
+
     private String name;
     private Double price;
 
+
+    
+
     public Product(String name, Double price) {
-        this.price= price;
-        this.name = name;
+       this.name = name;
+       this.price = price;
     }
+
+
     public String getName() {
         return name;
     }
@@ -21,5 +28,11 @@ public class Product {
     public void setPrice(Double price) {
         this.price = price;
     }
-}
-*/
+
+    public String priceTag(){
+
+      return getName() 
+      + " (used) $ " 
+      + String.format("%.2f", getPrice());
+    }
+}*/

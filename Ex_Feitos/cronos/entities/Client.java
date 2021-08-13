@@ -1,4 +1,4 @@
-package Ex_Feitos.cronos.entities;
+/*package Ex_Feitos.cronos.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -40,3 +40,4 @@ public class Client {
         return name + " "+(sdf.format(birthDate)) + " "+email;
     }
 }
+*/
