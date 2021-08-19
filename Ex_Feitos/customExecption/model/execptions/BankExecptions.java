@@ -1,4 +1,4 @@
-package model.execptions;
+//package model.execptions;
 /*
 public class BankExecptions extends RuntimeException {
 

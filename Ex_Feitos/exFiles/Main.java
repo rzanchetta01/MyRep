@@ -1,6 +1,6 @@
-package Ex_Feitos.exFiles;
+/*package Ex_Feitos.exFiles;
 
-/*import java.io.BufferedWriter;
+import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ public class Main {
        List<Produto> lista = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
         
-        int n = 1;
+        int n = 4;
 
 
         for (int i = 1; i <= n; i++) {
@@ -48,5 +48,4 @@ public class Main {
         }
         sc.close();
     }
-}
-*/
+}*/
